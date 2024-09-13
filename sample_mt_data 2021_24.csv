@@ -1,0 +1,219 @@
+RecordedDate,ID,Gender,Task t1,Task t2,Task e1,Task e2,Task Ratings_1,Task Ratings_2,Task Sentiment
+9/1/2021 15:20,14523574,,51.17,26.18,0,0,4,1,
+9/1/2021 15:20,14791270,,76,35,1,0,6,1,
+9/1/2021 15:22,15389959,,58,36,2,3,5,2,
+9/1/2021 15:24,15400710,,60,44,0,0,6,3,
+9/1/2021 15:26,15111928,,76,40,1,0,5,3,
+9/1/2021 15:28,11829636,,58.8,29.76,1,0,6,1,
+9/1/2021 15:28,12111840,,96,34,6,0,6,1,
+9/1/2021 15:28,13265343,,65,32,5,0,4,1,
+9/1/2021 15:29,14150760,,78.39,38.56,5,3,7,3,
+9/1/2021 15:29,15211586,,64,26,3,1,5,2,
+9/1/2021 15:29,14398618,,74.03,40.94,4,0,4,1,
+9/1/2021 15:30,13384553,,57.38,31.1,0,3,5,2,
+9/1/2021 15:33,13096252,,55.59,31.33,4,2,5,2,
+9/1/2021 15:33,15726789,,47.14,28.5,2,0,6,1,
+9/1/2021 15:33,15450877,,75,39,2,0,3,1,
+9/1/2021 15:34,12904255,,82.8,50.6,6,2,7,1,
+9/1/2021 15:36,13345995,,66,50,0,1,5,4,
+9/1/2021 15:38,11209003,,47.73,28.17,1,0,3,1,
+9/1/2021 15:50,14655706,,64,27,2,0,5,1,
+9/1/2021 15:50,15026596,,79,41,0,0,1,1,
+9/1/2021 15:50,13401066,,70,36,0,0,2,1,
+9/1/2021 15:51,12773280,,57.49,38.51,0,0,5,2,
+9/1/2021 15:52,14542970,,58.81,42.19,2,1,3,2,
+9/1/2021 15:52,,,90,32,3,2,4,2,
+9/1/2021 15:57,9064874,,48.93,30.86,0,1,6,2,
+9/1/2021 15:58,14317472,,90,32,3,2,4,2,
+9/1/2021 17:03,14825486,,43,111,0,3,1,3,
+9/1/2021 17:16,14825486,,32,24,0,1,2,2,
+9/1/2021 17:18,14296516,,49.68,3,18.91,1,4,5,
+9/1/2021 17:18,,,80,30,5,2,5,1,
+2/2/2022 14:56,13010205,Man,42.67,31.15,0,0,2,1,
+2/2/2022 14:59,14150487,Man,58.93,30.71,5,0,4,1,
+2/2/2022 15:02,12914980,Man,59.4,38.2,0,0,5,2,
+2/2/2022 15:04,13993499,Woman,42.67,25.58,1,0,5,2,
+2/2/2022 15:05,15212821,Man,72.4,36.7,0,0,4,1,
+2/2/2022 15:05,2287782,Woman,54,32,0,0,5,1,
+2/2/2022 15:07,3953083,Man,60,35,0,0,4,2,
+2/2/2022 15:08,14205529,Woman,76,32,1,1,5,1,
+2/2/2022 15:08,14391650,Man,70.16,33.24,1,0,6,2,
+2/2/2022 15:10,13592540,Man,61.1,29.7,2,0,6,1,
+2/2/2022 15:12,14001208,Man,158.6,56.5,1,0,4,2,
+2/2/2022 15:12,14696604,Man,63,35,1,0,6,1,
+2/2/2022 15:15,14770574,Woman,64,29,0,2,5,2,
+2/2/2022 15:16,14763775,Woman,45.48,28.69,3,0,5,1,
+2/2/2022 15:17,15014012,Woman,46,24,0,0,4,1,
+2/2/2022 15:18,12798123,Man,67.02,34.57,1,0,4,1,
+2/2/2022 15:19,,Man,34.29,66.82,0,1,5,1,
+2/2/2022 15:20,13056680,Woman,90,53,2,2,4,2,
+2/2/2022 15:20,12756913,Man,65.4,38.46,1,0,5,1,
+2/2/2022 15:22,13344084,Woman,65.99,38.01,3,1,6,2,
+2/2/2022 15:23,14063543,Man,58.19,33.57,1,1,3,1,
+2/2/2022 15:23,14513239,Man,83,71,18,7,6,3,
+2/2/2022 15:30,13885040,Woman,53.83,25.34,0,0,5,1,
+2/2/2022 15:30,14456520,Woman,75.1,29.3,0.15,0.05,5,1,
+2/2/2022 15:34,,Man,66.97,39.08,0,0,5,3,
+2/2/2022 16:07,15404558,Woman,80,45,4,2,6,2,
+2/2/2022 16:11,10781914,Man,72,46,0,0,6,2,
+2/2/2022 16:12,15567305,Man,73,33,2,0,3,1,
+2/2/2022 16:13,14123954,Woman,56.43,28.22,2,0,4,1,
+2/2/2022 16:14,13084838,Man,65,37,2,0,6,2,
+2/2/2022 16:14,15578706,Man,75.1,34.9,4,1,4,1,
+2/2/2022 16:47,15221583,Man,76.19,45.57,1,0,2,6,
+2/2/2022 17:26,13952419,Woman,68,33,4,2,6,2,
+2/7/2022 15:21,14825486,Man,51,31.8,2,0,5,2,
+2/9/2022 21:27,14642589,Man,59,41,1,0,4,2,
+2/1/2023 14:20,135522540,Male,,,,,,,
+2/1/2023 16:11,15261922,Male,48.33,27.4,0,0,,,
+2/1/2023 16:15,15534961,Female,62,35,3,0,,,
+2/1/2023 16:16,12814295,Male,63.04,46.31,1,0,,,
+2/1/2023 16:17,10282948,Male,63,32,1,0,,,
+2/1/2023 16:17,12912211,Male,64,24,0,0,,,
+2/1/2023 16:18,14387321,Male,72,68,5,1,,,
+2/1/2023 16:19,14406652,Male,81,28,4,0,,,
+2/1/2023 16:20,13264511,Female,101,31,1,1,,,
+2/1/2023 16:21,14811550,Male,68,35,1,0,,,
+2/1/2023 16:21,9993711,Male,81,32,2,0,,,
+2/1/2023 16:22,15020824,Male,57.49,47.22,0,1,,,
+2/1/2023 16:22,13927901,Male,65,30,1,0,,,
+2/1/2023 16:22,16457246,Male,50.6,37.16,0,0,,,
+2/1/2023 16:22,14510535,Male,48.06,22.26,0,0,,,
+2/1/2023 16:22,16105531,Female,43,27,1,0,,,
+2/1/2023 16:22,15215798,Male,55.61,22.83,3,0,,,
+2/1/2023 16:22,1364386,Female,55.65,25.38,1,0,,,
+2/1/2023 16:22,15444351,Female,55,27,0,0,,,
+2/1/2023 16:22,14832467,Female,67.81,34.07,0,0,,,
+2/1/2023 16:22,14767415,Female,83,31,4,2,,,
+2/1/2023 16:22,14145248,Male,52.59,31.3,4,3,,,
+2/1/2023 16:22,16352609,Male,46.43,28.48,3,0,,,
+2/1/2023 16:22,14467570,Male,61.74,36.19,2,2,,,
+2/1/2023 16:22,14412593,Male,85.72,40.18,4,0,,,
+2/1/2023 16:23,13552240,Male,51,29.17,0,0,,,
+2/1/2023 16:23,15261922,Male,48.33,27.4,0,0,,,
+2/1/2023 16:23,15778347,Male,96.07,52.43,6,1,,,
+2/1/2023 16:23,16553329,Male,67.3,35.7,1,0,,,
+2/1/2023 16:26,15593383,Male,84,40,4,0,,,
+2/1/2023 16:27,15800434,Female,90.21,46.45,3,0,,,
+2/1/2023 16:27,15780349,Male,80.99,35.88,0,0,,,
+2/1/2023 16:28,15778347,Male,96.07,52.43,6,1,,,
+2/1/2023 16:29,,,,,,,,,
+2/1/2023 16:29,15221570,Female,84,36,1,1,,,
+2/1/2023 16:30,15961660,Male,80.7,36.4,1,0,,,
+2/8/2023 15:54,14767415,Female,,,,,,,
+2/15/2023 15:31,13264511,Female,,,,,,,
+2/15/2023 17:14,14450631,Male,,,,,,,
+9/11/2023 8:20,13073567,Male,50.12,27.82,1,2,,,
+9/11/2023 8:21,14747096,,78,48,3,0,,,
+9/11/2023 8:23,14244620,Female,47.19,27.03,0,1,,,
+9/11/2023 8:23,16141385,Male,66.73,36.37,2,0,,,
+9/11/2023 8:24,15547077,Male,,,,,,,
+9/11/2023 8:24,15771080,Male,69,33,3,0,,,
+9/11/2023 8:25,15905838,Male,45.48,32.01,0,0,,,
+9/11/2023 8:26,12553762,Male,59,31,3,0,,,
+9/11/2023 8:26,13658398,Male,62.58,32.53,2,0,,,
+9/11/2023 8:29,15778191,Male,65.97,49.62,1,2,,,
+9/11/2023 8:30,11733839,Male,75,35,5,2,,,
+9/11/2023 8:31,13650130,Male,57,32,1,1,,,
+9/11/2023 8:32,16387904,Male,60,27,4,0,Difficult,,"The first task felt more difficult because it made me focus on two separate jobs, making me use more brain power in order to complete both jobs successfully and simultaneously, which ended up taking more time overall and increased the chance of errors."
+9/11/2023 8:32,14396187,Female,81,30,6,1,Difficult,Easy,I felt like Task 1 was a bit difficult due to the fact that I already know not do well with multitasking even it be with something as easy as counting letters. I feel like I can counting letters in my head just fine but then having to motorize that makes it more complicated somehow. The pressure of going first in the group also did not help. 
+9/11/2023 8:32,15547077,Male,69.1,39.18,3,0,Very Difficult,Neutral,Having to switch between letters and numbers confused my motor skills.
+9/11/2023 8:32,14787279,Male,70,37,3,1,Difficult,Easy,Task 1 felt more difficult because you have to switch from writing out the letter to writing out the number.
+9/11/2023 8:33,13650130,Male,57,32,1,1,Difficult,Easy,It is difficult to focus on two tasks at once.
+9/11/2023 8:34,16497598,Male,69,32,0,0,Difficult,Easy,Task 1 has seemed more difficult because the combination of letters and numbers can confuse the order of which one go next when writing on the paper.
+9/11/2023 8:35,14829399,Male,80.56,39.07,4,1,,,
+9/11/2023 8:36,12553762,Male,59,31,3,0,Difficult,Very Easy,"The first task was relatively difficult because it was forcing me to complete two different actions and the focus between each was split. It was more complicated having the alternate between writing a letter and number. Compared to the second task I was able to complete one action with full focus at a time. Here, I was able to write letter by letter, and number by number."
+9/11/2023 8:37,14360385,Female,47.54,30.39,1,0,Difficult,Easy,"With the multitasking task, going between numbers and letters, it was hard to keep track of which letter I was on. In comparison, to the second task, I was not interrupted  midword and it was easier to write all the letters and number in one go,  "
+9/11/2023 8:38,14155843,Female,51,28,1,0,,,
+9/11/2023 8:38,14467700,Male,72,41,0,0,Difficult,Very Easy,Task 1 felt more difficult because it was hard to transition from letters to numbers in a timely fashion. It was easy to lose yourself in that transition and make an error.
+9/11/2023 8:39,15271529,Female,64,32,1,1,,,
+9/11/2023 8:39,16195114,Male,59,40,2,0,Difficult,Very Easy,"Task 1 felt more difficult for the fact it required multitasking, Writing the letter and the number at the same time."
+9/11/2023 8:39,13034840,Male,60,29,3,1,Neutral,Very Easy,Task 1 Felt more difficult than task 2 because we had to go back and fourth as quickly as possible. 
+9/11/2023 8:39,13912340,Male,60,41,0,0,Difficult,Easy,Task one was more difficult because we would write letter after number
+9/11/2023 8:39,16987555,Male,56.2,36.7,2,1,,,
+9/11/2023 8:40,15961478,Male,52,32,2,0,Difficult,Neutral,Task 1 felt more difficult because I was alternating between two different actions while maintaining a pattern. At the same time trying to complete the task in the shortest time possible.
+9/11/2023 8:46,14668641,Male,76.83,33,0,0,,,
+9/11/2023 8:47,13953563,Female,92,42,2,0,Difficult,Very Easy,Task one felt more difficult than task two because of constantly switching back to the words and then numbers was frustrating. 
+9/16/2023 22:46,16078673,Male,78,33,2,0,Difficult,Easy,"Task one felt more difficult due to constantly switching from each letter to number and the motion of writing everything out not being in one continuous motion compared to task 2, with task 1 consisting of having to not only think about what comes next but moving my wrist and hand up and down."
+9/17/2023 19:13,103658398,Male,,,,,,,
+9/18/2023 8:23,15935790,Male,79,40,3,0,Difficult,Very Easy,Task 1 felt more difficult because of the multi-tasking that was required and the amount of effort I had to use to keep my concentration.
+9/18/2023 8:23,16211442,Male,1.21,0.3,2,0,Difficult,Very Easy,"Task 1 was more difficult because, instead of being focused on writing out ""multitasking is a lie"", you also had to write out number 1-27 every time you wrote one letter of the sentence. "
+9/18/2023 8:55,,,,,,,,,
+9/18/2023 8:58,12489607,Male,62.3,31.7,5,2,Difficult,Easy,
+9/19/2023 23:28,14951261,Male,69,36.01,2,2,Difficult,Easy,Adding one letter after a number would take time to move up and down while writing.
+9/20/2023 11:08,17261426,Prefer not to say,53,35,0,0,Difficult,Very Easy,Task 1 felt more difficult because I had to shift my attention between different tasks.
+9/24/2023 19:53,14807767,Male,66.06,35.05,3,0,Difficult,Very Easy,Making sure I spelled correctly and counted correctly for task one kept me confused during the task. 
+9/25/2023 8:05,15517697,Female,,,,,,,
+,14566591,,100.02,35.17,7,1,,,
+,13552175,,67.03,35.84,7,1,,,
+,12591319,,52.78,27.46,7,1,,,
+,14808976,,51,30,6,1,,,
+,12756913,,59.51,33.56,7,2,,,
+,13487344,,61,36,5,1,,,
+,13854113,,87.94,37.07,7,1,,,
+,8290230,,59.23,27.6,5,2,,,
+,12627433,,53.13,32.51,5,1,,,
+,13885040,,55.64,31.17,6,3,,,
+,12139452,,47.13,27.27,5,2,,,
+,2958059,,39.29,27.52,7,1,,,
+,14335204,,79,36,7,2,,,
+,13248677,,48.27,26.05,7,1,,,
+,14338051,,57.8,41.33,7,2,,,
+,13687726,,46.73,57.96,6,2,,,
+,14132755,,58.65,31.49,6,2,,,
+,14622829,,75,28,6,1,,,
+,14133691,,58.88,43.61,6,1,,,
+,13804570,,40.745,32.24,5,1,,,
+,13615004,,39.4,24.71,5,1,,,
+,13113360,,42,50,6,3,,,
+,13330109,,51.52,21.42,6,1,,,
+,10568597,,49.04,31.14,6,2,,,
+,12907180,,52,28,6,2,,,
+,10436621,,62,29,6,1,,,
+,13084604,,54.24,30.6,6,1,,,
+,14877746,,129.06,37.575,6,2,,,
+,13871585,,51.61,29.36,6,2,,,
+,14097044,,53.37,26.98,6,2,,,
+,13871624,,47.94,21.93,6,2,,,
+,11788751,,60,37.85,7,2,,,
+,13347698,,52,31,7,1,,,
+,14502033,,73,32,6,2,,,
+,14547325,,48.49,32.22,6,1,,,
+,14296841,,60,40.51,5,1,,,
+,,,,,,,,,
+,13831649,,53.33,41.4,6,3,,,
+,,,,,,,,,
+,,,,,,,,,
+1/31/2024 15:36,15869477,1,74,38,3,0,4,2,"I felt that the first task was more difficult because it required me to think before i started to write, the other one didn't make me do that it became almost automatic"
+1/31/2024 15:37,14391117,1,69,35,1,1,4,1,It does require more thought in writing each character.
+1/31/2024 15:37,15128607,,59.19,34.25,1,1,4,1,"For task 1, there were too many things to keep track of. Keeping track of the letters and what number I was on kept getting me stuck. Task 2 was simple, only needing to focus on one task at a time."
+1/31/2024 15:37,14496066,1,60.92,31.4,0,0,4,1,I had to take a moment to think and realize where I was in the sentence and numerical order for task 1.  Whereas task 2 felt fluid and natural.  
+1/31/2024 15:38,15292602,1,54.03,35.29,2,0,4,1,Task 1 felt more difficult because of the switching between the letters and numbers while in Task 2 there was no switching and was more focus on writing each line.
+1/31/2024 15:40,15667782,2,48,31,0,0,3,2,Task 1 felt more difficult because you constantly had to keep switching from one row to the other.
+1/31/2024 15:40,16933566,,56.79,33.17,0,0,4,2,Task 1 seemed more difficult because my mind was preoccupied with 2 things at once while task 2 allowed me to do one task at a time which was easier.
+1/31/2024 15:40,17221035,1,59.23,33.63,1,0,2,1,Task 1 requires my hand to travel more and something thinking at times when starting or ending a word.
+1/31/2024 15:42,17156178,1,48,26,0,0,4,1,"Task 1 was more difficult because you had to remember to properly spell each word in the phrase, and still remembering the number you were on."
+1/31/2024 15:42,14637350,1,95,38,1,0,2,1,Task one was more difficult because of the continuous task switching.
+1/31/2024 15:43,13717782,2,69,34,3,2,4,1,It was harder for me to focus on both tasks at the same time. It felt very natural and easy when I did one task at a time.
+1/31/2024 15:44,15727049,1,47,27,2,0,3,1,Task 1 felt more difficult than task 2 because I had to juggle between letters and numbers while also completing the sentence. Task 1 was more complex than Task 2. Task 2 was a straight forward task. 
+1/31/2024 15:45,16199469,1,55,35,0,2,4,2,Task 1 seemed more difficult than task 2 because switching back and forth from writing to numbering would overload me and often times have me scrambling around. 
+1/31/2024 15:45,15466464,1,50,27,1,0,3,1,"Task 2 was very easy because that is just the natural way of writing out words and numbers.
+For Task 1 I kept losing track on where I was for writing out the sentence. I also just wanted to finish the words. "
+1/31/2024 15:48,13052078,1,61.46,29.23,1,1,4,3,The first task felt more difficult because you are interchanging between writing a letter and a number on top of trying to be as fast as possible and be as neat as possible without having to make any errors.
+1/31/2024 15:48,15650258,,57.51,28.21,0,0,5,2,I wanted to write more of the letters and/or numbers at once rather than interchanging. I also lost track of what letters I had next in the phrase.
+1/31/2024 15:49,14573962,1,71.23,35.22,2,0,4,3,"During task 1, I had to go back and forth between my thought processes. Recalling and writing alternating two different patterns was difficult."
+1/31/2024 15:49,15931708,2,65,36,1,0,4,2,2 was writing things one at a time which felt for efficient than the first.
+1/31/2024 15:49,16305029,1,53.72,29.54,0,0,3,1,Task 1 felt difficult than the other because I had to multitask by writing a letter and a number.  
+1/31/2024 15:49,15370797,2,71,33,0,0,4,1,Task One felt difficult for me because I felt I was not able to keep track of the letters and numbers fast enough. I had to think about it sometimes.
+1/31/2024 15:49,16223363,1,44.27,26.54,0,1,4,2,The first task require good rymthm and having the next character in your mind as your writing.
+1/31/2024 15:49,15360202,1,66,33,0,0,4,1,Task 1 felt more difficult than the other because it was distracting due to going to different positions and going back and forth from the letters and numbers row.
+1/31/2024 15:50,16350100,2,65.27,29.29,2,0,5,2,My mind couldn't switch from letters to numbers fast enough. 
+1/31/2024 15:50,14362699,2,81.88,39.96,0,0,4,2,You had to focus hard on two different tasks and try to make no errors and switch off really quickly
+1/31/2024 15:51,16498677,3,63,25,0,0,3,2,This is because my attention is distracted between the two task of writing the letter and number
+1/31/2024 15:51,15838251,1,60,26,1,0,4,2,"When doing task one, I was talking in my head as I was writing, and numbers would pop in instead of the letter I needed."
+1/31/2024 15:53,16048032,1,106,36,1,0,5,1,unable to focus on one thing at a time and i had to move my hand more
+1/31/2024 15:53,15530151,1,70,25,0,0,3,2,The second task was much easier than the second one because it required less concentration then doing numbers and letters at the same time.
+1/31/2024 15:54,9734985,1,75.43,32.09,4,0,4,2,Task 1 seemed more difficult as my workflow was constantly being interrupted. 
+1/31/2024 15:55,15502318,1,83,37,0,0,4,2,"For Task 1 it felt very uncomfortable to get use to. The motions of jumping back and forth between letters and numbers makes me think about the alphabet (A-1, B-2, C-3, etc). I wanted to assign the letter to the appropriate number. For Task 2 it was much more easier. Writing out the entire phrase was less of a hassle. With the numbers it was breeze to go through since it was a standard numerical pattern.  "
+1/31/2024 15:57,17320030,1,71.28,31.16,2,0,4,1,Because task 1 required more shift between letter and number concept to write
+1/31/2024 16:08,15114541,1,65,38,0,0,4,5,Task 2 felt more difficult than Task 1 even though it should have been easier with the reason being that the brain is still switching from first task to the second task. 
